@@ -1,22 +1,26 @@
 {
-  "name": "splash-screen",
-  "version": "1.1",
-  "description": "A smart splash screen for React Native apps",
+   "name": "splash-screen",
+   "version": "2.0.0",
+   "description": "A smart splash screen for React Native apps",
   "main": "SplashScreen.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Barnpengar/splash-screen.git"
-  },
-  "keywords": [
-    "react-native",
-    "smart",
-    "splash",
-    "screen",
-    "splashscreen",
-    "component"
-  ],
-  "license": "MIT"
+   "scripts": {
+     "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+     "type": "git",
+    "url": "git+https://github.com/react-native-component/react-native-smart-splash-screen.git"
+   },
+   "keywords": [
+     "react-native",
+     "smart",
+     "splash",
+     "screen",
+     "splashscreen",
+     "component"
+   ],
+   "license": "MIT",
+   "bugs": {
+     "url": "https://github.com/react-native-component/react-native-smart-splash-screen/issues"
+   },
+   "homepage": "https://github.com/react-native-component/react-native-smart-splash-screen#readme"
 }
